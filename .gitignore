@@ -1,0 +1,3 @@
+*.pyc
+*p2wsenv/*
+*p3wsenv/*
