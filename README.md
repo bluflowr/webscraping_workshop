@@ -5,7 +5,7 @@ This workshop was held on June 19, 2017 and taught by Irma Kramer. The goal is t
 
 ## Libraries Used
 
-###[BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)  
+### [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)  
 
 ## Resources
 
